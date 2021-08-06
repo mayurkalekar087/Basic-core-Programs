@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Basic Functional Programs\Basic Functional Programs\bin\Debug\netcoreapp3.1\Basic Functional Programs.exe
+C:\Users\ASUS\source\repos\Basic Functional Programs\Basic Functional Programs\bin\Debug\netcoreapp3.1\Basic Functional Programs.deps.json
+C:\Users\ASUS\source\repos\Basic Functional Programs\Basic Functional Programs\bin\Debug\netcoreapp3.1\Basic Functional Programs.runtimeconfig.json
+C:\Users\ASUS\source\repos\Basic Functional Programs\Basic Functional Programs\bin\Debug\netcoreapp3.1\Basic Functional Programs.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Basic Functional Programs\Basic Functional Programs\bin\Debug\netcoreapp3.1\Basic Functional Programs.dll
+C:\Users\ASUS\source\repos\Basic Functional Programs\Basic Functional Programs\bin\Debug\netcoreapp3.1\Basic Functional Programs.pdb
+C:\Users\ASUS\source\repos\Basic Functional Programs\Basic Functional Programs\obj\Debug\netcoreapp3.1\Basic Functional Programs.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Basic Functional Programs\Basic Functional Programs\obj\Debug\netcoreapp3.1\Basic Functional Programs.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Basic Functional Programs\Basic Functional Programs\obj\Debug\netcoreapp3.1\Basic Functional Programs.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Basic Functional Programs\Basic Functional Programs\obj\Debug\netcoreapp3.1\Basic Functional Programs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Basic Functional Programs\Basic Functional Programs\obj\Debug\netcoreapp3.1\Basic Functional Programs.dll
+C:\Users\ASUS\source\repos\Basic Functional Programs\Basic Functional Programs\obj\Debug\netcoreapp3.1\Basic Functional Programs.pdb
+C:\Users\ASUS\source\repos\Basic Functional Programs\Basic Functional Programs\obj\Debug\netcoreapp3.1\Basic Functional Programs.genruntimeconfig.cache
